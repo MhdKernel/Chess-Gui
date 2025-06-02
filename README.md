@@ -32,7 +32,7 @@ project/
 │   ├── bP.png
 │   └── ... (all other piece images)
 │
-├── main.py
+├── chess.py
 ├── README.md
 ```
 
@@ -51,7 +51,7 @@ pip install pygame
 ### Start the Game
 
 ```bash
-python main.py
+python chess.py
 ```
 
 ---
@@ -83,3 +83,7 @@ python main.py
 - The game ends with a message when there is checkmate or draw.
 
 ---
+
+## 💻 Game UI Picture : 
+![screenshot](img/chess_ui.png)
+
